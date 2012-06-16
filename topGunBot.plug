@@ -1,0 +1,6 @@
+[Core]
+Name = TopGun
+Module = topGunBot
+    
+[Documentation]
+Description = TOP GUN
