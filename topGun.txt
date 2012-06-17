@@ -133,6 +133,7 @@
 	GHOST RIDER ONE ONE SEVEN. CONTACT 
 	ONE BOGEY, 090 AT 15 MILES, 900 
 	KNOTS OF CLOSURE.
+
 			COUGAR
 	Look for the trailer.
 	
@@ -291,7 +292,6 @@
 	Still hears the tone, BLIPBLIPBLIP...
 	
 			COUGAR
-	
 	I KNOW. I KNOW.
 	
 	He rolls over into wild evasive maneuvers, finally breaks lock. 
@@ -345,7 +345,6 @@
 	18.  INT. COCKPIT 117 - COUGAR
 	
 			COUGAR
-	
 	This is crazy. How the hell we 
 	supposed to land on something we 
 	can't even see!
@@ -400,7 +399,6 @@
 	
 	 	 	GOOSE
 	   (To Himself)
-	
 	A walk in the park, Mustang. You 
 	with me, cat man?...Cougar...you 
 	with me?
@@ -497,6 +495,7 @@
 	What makes you think we can get 
 	back in?  We don't have the fuel 
 	for this.
+
 			MAVERICK
 	Just get me to him.
 	
@@ -783,7 +782,6 @@
 	Stress reaction...
 	
 			XO
-	
 	Check his head.
 	
 			GOOSE
@@ -853,7 +851,9 @@
 	then looks up at them. He turns away.
 	
 			MAVERICK
-	Cougar?		STINGER (O.S.)
+	Cougar?		
+
+	STINGER (O.S.)
 	Maverick, Goose...Come in here.
 	
 	
@@ -917,6 +917,7 @@
 	fact is, he's lost it. He knows it. 
 	I know it. You were up there, you 
 	know it, too.
+			
 			GOOSE
 	Give him a break, Skipper. It was 
 	raining snakes up there. He'll be 
@@ -1322,6 +1323,7 @@
 			MAVERICK
 	Nothing...That's McGown...that's 
 	Singer, isn't it?
+
 			GOOSE
 	Turn around, pay attention. What 
 	are you doing?
@@ -1638,7 +1640,7 @@
 			GIRL
 	Why do they call you Wolf?
 	
-			WOLDFMAN
+			WOLFMAN
 	   (smiles)
 	Oh, I don't know.
 	
@@ -1718,6 +1720,7 @@
 	
 			MAVERICK
 	He's a good man.
+
 			ICEMAN
 	The best.
 	
@@ -1773,6 +1776,7 @@
 	He deposits Maverick at a chair by a table where other pilots 
 	cluster watching and listening to Bugs shoot down his wristwatch. 
 	Maverick broods...
+
 			BUGS
 	We were just really diving down and by 
 	then we were right over downtown 
@@ -1889,6 +1893,7 @@
 	
 			GIRL
 	I never knew it was so dangerous.
+
 			HOLLYWOOD
 	Oh yeah, it makes everything down 
 	here more meaningful. You feel a 
@@ -2044,7 +2049,6 @@
 	smiles.
 	
 			CHARLIE
-	
 	Where's your wing man? Who's 
 	watching your six?
 	
@@ -2209,7 +2213,6 @@
 	stick.
 	
 			FUNGUS (Unhappily)
-	
 	It'll stick anyway. 
 	
 	Viper turns away...
@@ -2262,8 +2265,8 @@
 	
 	A snicker from the audience. She hesitates momentarily, goes 
 	on.
+
 			CHARLIE
-	
 	The latest intelligence shows that 
 	the most they will do in operation 
 	is one....is there something wrong, 
@@ -2335,6 +2338,7 @@
 	
 			MAVERICK
 	Not in this case.
+
 			CHARLIE
 	    (Flatly.)
 	You saw a MiG push negative 4G?
@@ -2396,6 +2400,7 @@
 			CHARLIE
 	    (Flatly.)
 	Lieutenant...
+
 			MAVERICK
 	Ma'am?
 	
@@ -2458,6 +2463,7 @@
 	You seemed determined to do that 
 	anyway.. Why didn't you tell me you 
 	were a famous MiG insulter?
+
 			MAVERICK
 	Would it have made a difference? 
 	
@@ -2528,6 +2534,7 @@
 	heads to weigh over one hundred pounds. Maverick strains to 
 	turn his head and track the other jet as it streaks past at 
 	Mach One. 
+
 			MAVERICK
 	I've lost him -- where is he?
 	
@@ -2546,6 +2553,7 @@
 	
 			MAVERICK
 	He should've had me.
+
 			GOOSE
 	Take it down. Let's bug out of 
 	here. Call for a draw.
@@ -2603,6 +2611,7 @@
 			MAVERICK
 	In the envelope. FOX TWO MISSILE 
 	SHOT. YOU'RE GONE, JESTER, DEAD! 
+
 			GOOSE
 	    (stunned)
 	Goddamn! We beat him!
@@ -2772,9 +2781,12 @@
 	Maverick ignores him and begins to peel out of his G-suit. 
 	Ice moves toward his locker.
 	                                                      ***
+
 			GOOSE
 	You won. 
-	Congratulations.		HOLLYWOOD
+	Congratulations.		
+
+	HOLLYWOOD
 	Maverick and Goose won too.
 	
 	Ice talks into his locker.
@@ -2865,6 +2877,7 @@
 	
 	He stops and looks at Maverick... A beat. Maverick finally 
 	nods 
+
 			VIPER
 	Why?
 	
@@ -2922,7 +2935,6 @@
 	sincere.
 	
 			MAVERICK
-	
 	Yes sir, perfectly clear. I guess 
 	we were ...I was... just a little 
 	over enthusiastic.
@@ -2977,7 +2989,6 @@
 	He throws the report on the desk.
 	
 			JESTER
-	
 	Yup, a wild pony.
 	
 	
@@ -3084,7 +3095,6 @@
 	It is combat. Every second counts. 
 	
 			CHARLIE
-	
 	The hottest moves in the world 
 	aren't gonna help you if you wind 
 	up alone.  Your wingman's got to be 
@@ -3112,6 +3122,7 @@
 	
 			MAVERICK
 	Is that all?
+
 			CHARLIE
 	What else do you want?
 	
@@ -3195,7 +3206,6 @@
 	that happens.
 	
 			MAVERICK
-	
 	Harmless. Nobody ever called me 
 	harmless before...
 	
@@ -3236,6 +3246,7 @@
 	Most of them invite me to sit in 
 	the cockpit...play with the levers 
 	and things. 
+
 			MAVERICK
 	Well, get used to it.
 	
@@ -3304,7 +3315,6 @@
 	
 			MAVERICK
 	   (surprised)
-	
 	I had the shot.
 	
 	She looks at him for a moment, then turns away, fiddles with 
@@ -3385,6 +3395,7 @@
 	
 			CHARLIE
 	Flying?
+
 			MAVERICK
 	You use your mind to keep things at 
 	a distance. You ever just let go?
@@ -3414,7 +3425,6 @@
 	Winston Churchill.
 	
 			MAVERICK
-	
 	What?
 	
 			CHARLIE
@@ -3439,6 +3449,7 @@
 			CHARLIE
 	What if you kill yourself? Think of 
 	everything you'll miss.
+
 			MAVERICK
 	There is lots of stuff I don't know 
 	about...  Fine wine... great art... 
@@ -3477,7 +3488,7 @@
 	   (he smiles)
 	Thanks very much.
 	   (he lifts the fish)
-	Care for some suchi?.
+	Care for some sushi?
 	
 	
 	59E.  THE OTHER END OF THE BEACH - LATER
@@ -3674,6 +3685,7 @@
 	forward.
 	
 	The computerized rendering resumes on the screen.
+
 			VIPER (Con't)
 	You perform a split S. That's the 
 	last thing you should do. The 
@@ -3698,6 +3710,7 @@
 	of the students laugh and mockingly whistle at the cockiness 
 	of it. They give Maverick the high sign. Slider leans forward 
 	to him.
+
 			SLIDER
 	Your guts. His glory.
 	
@@ -3745,6 +3758,7 @@
 	stuff food down their gullets, the students rush/stumble 
 	toward the flight line. Hollywood takes a bit of a sandwich 
 	and makes a face.
+
 			GOOSE
 	What the hell is this?
 	
@@ -3911,6 +3925,7 @@
 	
 	Bogey One makes a strong vertical move. Hollywood stays on 
 	him.
+
 			MAVERICK
 	STAY WITH HIM, WOOD... YOUR SIX 
 	CLEAR!
@@ -4237,7 +4252,7 @@
 	Danger?
 	
 			MAVERICK
-	    (of course).
+	    (of course)
 	Yeah! 
 	
 			CHARLIE
@@ -5561,6 +5576,7 @@
 	congratulate him...Hollywood looks up as the door opens, 
 	Maverick is there.  He looks uncomfortable, unsure. He sees 
 	Ice with the plaque. Fungus moves over to him, brings him in.
+
 			FUNGUS
 	I'm glad.
 	
@@ -5785,6 +5801,7 @@
 	
 	He comes out of clouds at 1500, nothing but empty water 
 	below.
+	
 			ICE
 	Do you have them? Did they get out 
 	or not?
