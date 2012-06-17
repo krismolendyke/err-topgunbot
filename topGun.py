@@ -1,18 +1,21 @@
 #!/usr/bin/env python
 
 
+"""Get random lines for various characters in the film TOP GUN."""
+
+
 from random import choice
 import re
 
 
 class TopGun(object):
-    """Get random lines for various characters from TOP GUN."""
     CHARACTERS = {
         "maverick": r"MAVERICK",
         "iceman": r"ICE(MAN)?",
         "goose": r"GOOSE",
         "jester": r"JESTER",
-        "viper": r"VIPER"
+        "viper": r"VIPER",
+        "charlie": r"CHARLIE"
     }
 
 
@@ -61,9 +64,5 @@ class TopGun(object):
 
 if __name__ == "__main__":
     tg = TopGun()
-    print "fake: " + tg.get_random("fake")
-    print "maverick: " + tg.get_random("maverick")
-    print "goose: " + tg.get_random("goose")
-    print "iceman: " + tg.get_random("iceman")
-    print "jester: " + tg.get_random("jester")
-    print "viper: " + tg.get_random("viper")
+    for c in TopGun.CHARACTERS:
+        print "%s: %s" % (c, tg.get_random(c))
