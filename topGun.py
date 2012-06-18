@@ -6,6 +6,10 @@
 
 from random import choice
 import re
+import os
+
+from config import BOT_DATA_DIR
+from errbot.utils import PLUGINS_SUBDIR
 
 
 class TopGun(object):
@@ -43,7 +47,11 @@ class TopGun(object):
         BEGIN_RE = re.compile(r"^\s+%s\s+" % name)
         END_RE = re.compile(r"^\s+$")
         lines = []
-        with open("topGun.txt") as f:
+        script_path = "topGun.txt"
+        if not os.path.exists(script_path):
+            script_path = os.path.join(BOT_DATA_DIR, PLUGINS_SUBDIR,
+                                       "err-topgunbot", "topGun.txt")
+        with open(script_path) as f:
             in_line_block = False
             line = []
             for l in f:
