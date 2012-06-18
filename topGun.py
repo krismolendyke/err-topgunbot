@@ -60,13 +60,13 @@ class TopGun(object):
                     line = []
                 if END_RE.search(l):
                     if in_line_block and len(line):
-                        lines.append(" ".join(line))
+                        raw_line = " ".join(line)
+                        # Remove (sotto voce) direction.
+                        lines.append(re.subn(r"[ ]?\(.*?\)", "", raw_line)[0])
                     in_line_block = False
                 if in_line_block:
                     if not BEGIN_RE.search(l):
-                        sub_line = l.split(")")[-1].strip()
-                        if sub_line:
-                            line.append(sub_line)
+                        line.append(l.strip())
         return lines
 
 
