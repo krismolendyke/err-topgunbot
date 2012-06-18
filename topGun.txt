@@ -1517,6 +1517,7 @@
 	
 			MAVERICK
 	Still is..
+
 			SLIDER
 	Yeah. That's what I meant.
 	
@@ -1539,6 +1540,7 @@
 	GOOSE holds a demitasse glass. The barmaid pours Drambuie. They 
 	look at Goose apprehensively. Goose looks at nearby flyers in 
 	Camo fatigues.
+	
 			GOOSE
 	You can't show fear in front of 
 	Marines...They're like Doberman's 
