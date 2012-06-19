@@ -47,10 +47,7 @@ class TopGun(object):
         BEGIN_RE = re.compile(r"^\s+%s\s+" % name)
         END_RE = re.compile(r"^\s+$")
         lines = []
-        script_path = "topGun.txt"
-        if not os.path.exists(script_path):
-            script_path = os.path.join(BOT_DATA_DIR, PLUGINS_SUBDIR,
-                                       "err-topgunbot", "topGun.txt")
+        script_path = os.path.dirname(__file__) + os.sep + "topGun.txt"
         with open(script_path) as f:
             in_line_block = False
             line = []
