@@ -8,9 +8,6 @@ from random import choice
 import re
 import os
 
-from config import BOT_DATA_DIR
-from errbot.utils import PLUGINS_SUBDIR
-
 
 class TopGun(object):
     CHARACTERS = {
@@ -44,25 +41,24 @@ class TopGun(object):
         """Get a list of lines from the TOP GUN film script for the given
         charater's name.
         """
-        BEGIN_RE = re.compile(r"^\s+%s\s+" % name)
-        END_RE = re.compile(r"^\s+$")
         lines = []
-        script_path = os.path.dirname(__file__) + os.sep + "topGun.txt"
-        with open(script_path) as f:
+        with open(os.path.join(os.path.dirname(__file__), "topGun.txt")) as f:
+            LINE_BEGIN_RE = re.compile(r"^\s+%s\s+" % name)
+            LINE_END_RE = re.compile(r"^\s+$")
             in_line_block = False
             line = []
             for l in f:
-                if BEGIN_RE.search(l):
+                if LINE_BEGIN_RE.search(l):
                     in_line_block = True
                     line = []
-                if END_RE.search(l):
+                if LINE_END_RE.search(l):
                     if in_line_block and len(line):
                         raw_line = " ".join(line)
                         # Remove (sotto voce) direction.
                         lines.append(re.subn(r"[ ]?\(.*?\)", "", raw_line)[0])
                     in_line_block = False
                 if in_line_block:
-                    if not BEGIN_RE.search(l):
+                    if not LINE_BEGIN_RE.search(l):
                         line.append(l.strip())
         return lines
 
