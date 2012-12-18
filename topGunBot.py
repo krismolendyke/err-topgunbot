@@ -50,8 +50,6 @@ class TopGunBot(BotPlugin):
             return False
 
         message = ""
-        if mess.getBody().find("(mav)") != -1:
-            message += "(mav) %s  " % self.topgun.get_random("maverick")
         for character in TopGun.CHARACTERS:
             if mess.getBody().find("(%s)" % character) != -1:
                 message += "(%s) %s  " % (character, self.topgun.get_random(character))

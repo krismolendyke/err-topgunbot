@@ -11,7 +11,7 @@ import os
 
 class TopGun(object):
     CHARACTERS = {
-        "maverick": r"MAVERICK",
+        "mav": r"MAVERICK",
         "iceman": r"ICE(MAN)?",
         "goose": r"GOOSE",
         "jester": r"JESTER",
