@@ -5,9 +5,12 @@
 mentions and respond with a random line spoken by that character in the film.
 """
 
-
+from errbot import botcmd
 from errbot.botplugin import BotPlugin
-from errbot.jabberbot import botcmd
+from errbot.utils import get_sender_username
+import config
+import logging
+
 from topGun import TopGun
 
 
@@ -30,6 +33,7 @@ class TopGunBotBuilder(type):
 
 class TopGunBot(BotPlugin):
     __metaclass__ = TopGunBotBuilder
+    min_err_version = "1.6.0"
 
 
     def __init__(self):
