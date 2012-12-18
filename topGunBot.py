@@ -45,14 +45,15 @@ class TopGunBot(BotPlugin):
         """Listen for TOP GUN mentions and interject random lines from those
         characters who were mentioned.
         """
+        if (mess.getFrom().getStripped() == config.BOT_IDENTITY["username"]) or (get_sender_username(mess) == config.CHATROOM_FN):
+            logging.debug("Ignore a message from myself")
+            return False
+
         message = ""
         if mess.getBody().find("(mav)") != -1:
-            message = "(mav) " + self.topgun.get_random("maverick")
-        else:
-            for character in TopGun.CHARACTERS:
-                if mess.getBody().find("(%s)" % character) != -1:
-                    message = "(%s) %s" % (character,
-                                           self.topgun.get_random(character))
-                    break
+            message += "(mav) %s  " % self.topgun.get_random("maverick")
+        for character in TopGun.CHARACTERS:
+            if mess.getBody().find("(%s)" % character) != -1:
+                message += "(%s) %s  " % (character, self.topgun.get_random(character))
         if message:
             self.send(mess.getFrom(), message, message_type=mess.getType())
